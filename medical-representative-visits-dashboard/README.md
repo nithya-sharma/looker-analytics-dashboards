@@ -1,8 +1,8 @@
-# 👩‍⚕️ Medical Representative Visits Dashboard
+# Medical Representative Visits Dashboard
 
 An interactive dashboard designed to analyze field visits by medical representatives and compare planned vs actual coverage.
 
-## 🚀 Overview
+## Overview
 
 This dashboard helps track and evaluate:
 
@@ -11,13 +11,13 @@ This dashboard helps track and evaluate:
 - Zone-wise and city-wise coverage
 - Doctor visit statuses and TAT patterns
 
-## 🧹 Data Handling
+## Data Handling
 
 - Cleaned and transformed raw field visit logs
 - Merged planning and visit data for comparative analysis
 - Created filters for rep name, doctor status, and date ranges
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 - Interactive drill-downs by rep, city, or doctor
 - Donut charts for visit status distribution
@@ -27,21 +27,21 @@ This dashboard helps track and evaluate:
 - Engineer-wise performance insights
 - City, call type, priority, and product-level filters
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Google Looker Studio
 - Python (pandas)
 - CSV files as input
 
-## 📌 Outcome
+## Outcome
 
 Helped management monitor rep performance, optimize field coverage, and reduce missed visits.
 
-## 📸 Preview
+## Preview
 
 ![Dashboard Screenshot](../screenshots/MRFVA1.png)
 ![Dashboard Screenshot](../screenshots/MRFVA2.png)
 
-## 🌐 Live Dashboard
+## Live Dashboard
 
 [View Live Looker Dashboard](https://lookerstudio.google.com/reporting/a95bbc20-fd20-417d-b6ad-9f7531782dcf)
