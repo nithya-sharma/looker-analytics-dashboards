@@ -39,7 +39,8 @@ Helped management monitor rep performance, optimize field coverage, and reduce m
 
 ## 📸 Preview
 
-![Dashboard Screenshot](../screenshots/MRFVA1.png)(../screenshots/MRFVA2.png)
+![Dashboard Screenshot](../screenshots/MRFVA1.png)
+![Dashboard Screenshot](../screenshots/MRFVA2.png)
 
 ## 🌐 Live Dashboard
 
