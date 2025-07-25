@@ -1,6 +1,6 @@
 # 📊 Field Support Calls Dashboard 
 
-A data visualization project built to analyze service call data and uncover patterns in complaint volumes, types, and resolution times.
+Built an interactive Looker Studio dashboard using live anonymized call center data to analyze call lifecycle patterns, engineer performance, and call aging trends
 
 ## 🚀 Overview
 
