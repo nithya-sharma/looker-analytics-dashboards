@@ -1,8 +1,8 @@
-# 📊 Field Support Calls Dashboard 
+# Field Support Calls Dashboard 
 
 Built an interactive Looker Studio dashboard using live anonymized call center data to analyze call lifecycle patterns, engineer performance, and call aging trends
 
-## 🚀 Overview
+## Overview
 
 This dashboard provides actionable insights into:
 
@@ -11,34 +11,34 @@ This dashboard provides actionable insights into:
 - Turnaround Time (TAT) and SLA analysis
 - Escalation trends and resolution delays
 
-## 🧹 Data Handling
+## Data Handling
 
 - Cleaned raw Excel data using Python (pandas)
 - Standardized complaint categories, service zones, and timestamps
 - Derived key metrics like TAT buckets and SLA breach flags
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 - Interactive filters (Zone, Product Category, Date)
 - Charts for volume trends, escalation rates, and SLA performance
 - TAT distribution across complaint types and regions
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Google Looker Studio
 - Python (pandas, matplotlib)
 - Excel / CSV as data source
 
-## 📌 Outcome
+## Outcome
 
 Empowered internal teams to identify high-issue regions, optimize resource allocation, and improve service delivery.
 
-## 📸 Preview
+## Preview
 
 ![Dashboard Screenshot](../screenshots/dashboard-overview.png)
 
 
-## 🌐 Live Dashboard
+## Live Dashboard
 
 [View Live Looker Dashboard](https://lookerstudio.google.com/reporting/fbc53aa7-e158-4b5a-ae87-7efed7c3bf9d)
 
